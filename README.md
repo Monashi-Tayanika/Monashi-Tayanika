@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/monashi-tayanika-17a188224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/monashi-tayanika-17a188224" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/monashi.tayanika.94?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/monashi.tayanika.94?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_monashi.tayanika_?igsh=yzkwbhh5nndsmje0&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_monashi.tayanika_?igsh=yzkwbhh5nndsmje0&utm_source=qr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monashi-tayanika-17a188224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9zf0u2hqTy2LUHQnZ6QpEA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/monashi-tayanika-17a188224" height="30" width="40" /></a>
+<a href="https://www.facebook.com/monashi.tayanika.94?mibextid=PlNXYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/monashi.tayanika.94?mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_monashi.tayanika_?igsh=aTd2YWE0MDdsdjZo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_monashi.tayanika_?igsh=yzkwbhh5nndsmje0&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
